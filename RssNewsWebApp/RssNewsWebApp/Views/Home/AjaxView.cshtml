@@ -1,0 +1,53 @@
+﻿@*@model IEnumerable<RssNewsWebApp.News>*@
+@model PagedList.IPagedList<RssNewsWebApp.News>
+@using PagedList.Mvc;
+<link href="/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-offset-0 col-md-4">
+            <h3 class="navbar-text"><b>&ensp;Новостная лента</b></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-10 col-md-4">
+            @Html.ActionLink("Страница POST-запроса", "Index")
+        </div>
+    </div>
+</div>
+<br />
+@* Ajax form with table *@
+<h4>Ajax запрос</h4>
+<div>
+    @using (@Ajax.BeginForm("AjaxView", new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "result", InsertionMode = InsertionMode.Replace }))
+    {
+        <div class="form-horizontal">
+            <div class="form-group">
+                <div class="row">
+                    @Html.Label("sourc", "Источник ленты", htmlAttributes: new { @class = "control-label col-md-2" })
+                    @Html.DropDownList("sourc", null, htmlAttributes: new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;@Html.RadioButton("sortstyle", "date", true)
+                <span>Сортировать по дате</span>&ensp;&ensp;
+                @Html.RadioButton("sortstyle", "src2")
+                <span>Сортировать по источнику</span>
+            </div>
+            <div class="form-group">
+                <div class="col-md-2">
+                    <button class="btn btn-primary">Просмотреть</button>
+                </div>
+            </div>
+        </div>
+    }
+    <br />
+    <div id="result">
+        @Html.Partial("_PartialAjaxView")
+    </div>
+
+</div>
+@* end ajax *@
+@Scripts.Render("~/scripts/jquery-1.10.2.min.js")
+@Scripts.Render("~/scripts/jquery.unobtrusive-ajax.min.js")
+

@@ -1,0 +1,198 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\ApplicationInsights.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\RssNewsWebApp.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\RssNewsWebApp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\RssNewsWebApp.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csc.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csc.rsp
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csi.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csi.rsp
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\PagedList.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\PagedList.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\PagedList.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RssNewsWebApp\RssNewsWebApp\bin\PagedList.Mvc.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\ApplicationInsights.config
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\RssNewsWebApp.dll.config
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\RssNewsWebApp.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\RssNewsWebApp.pdb
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csc.exe
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csc.exe.config
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csc.rsp
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csi.exe
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csi.exe.config
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\csi.rsp
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.AppContext.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Console.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Diagnostics.Process.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.Compression.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Claims.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Threading.Thread.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.ValueTuple.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\vbc.exe
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\vbc.exe.config
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\vbc.rsp
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Antlr3.Runtime.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.SqlServer.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.Web.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.ApplicationInsights.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Newtonsoft.Json.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\PagedList.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\PagedList.Mvc.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Helpers.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Mvc.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Optimization.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Razor.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\WebGrease.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\EntityFramework.SqlServer.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\PagedList.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\PagedList.Mvc.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Helpers.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Mvc.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Optimization.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.Razor.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Antlr3.Runtime.pdb
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Newtonsoft.Json.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.ApplicationInsights.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\bin\Microsoft.AI.Web.xml
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.csprojResolveAssemblyReference.cache
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.csproj.CoreCompileInputs.cache
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.csproj.CopyComplete
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.dll
+D:\Alex\github\RssNewsWebApp\RssNewsWebApp\RssNewsWebApp\obj\Debug\RssNewsWebApp.pdb

@@ -1,0 +1,99 @@
+﻿@model PagedList.IPagedList<RssNewsWebApp.News>
+@using PagedList.Mvc;
+<link href="/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "page";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-offset-0 col-md-4">
+            <h3 class="navbar-text"><b>&ensp;Новостная лента</b></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-10 col-md-4">
+            @Html.ActionLink("Страница AJAX-запроса","AjaxView")
+        </div>
+    </div>
+</div>
+<br />
+<h4>Post запрос</h4>
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">       
+        <div class="form-group">
+            <div class="row">
+                @Html.Label("Source", "Источник ленты", htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.DropDownList("Source", null, htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;@Html.RadioButton("sortstyle", "date", true)
+            <span>Сортировать по дате</span>&ensp;&ensp;
+            @Html.RadioButton("sortstyle", "src1")
+            <span>Сортировать по источнику</span>
+        </div>
+        <div class="form-group">
+            <div class="col-md-2">
+                <button class="btn btn-primary">Просмотреть</button>
+            </div>
+        </div>
+    </div>
+}
+<br />
+<hr />
+<div class="container">
+    <table class="table-bordered table-hover">
+        <tr>
+            <th>
+                <div class="text-center">
+                    Источник
+                </div>
+            </th>
+            <th>
+                <div class="text-center">
+                    Название
+                    новости
+                </div>
+            </th>
+            <th>
+                <div class="text-center">
+                    Описание
+                    новости
+                </div>
+            </th>
+            <th>
+                <div class="text-center">
+                    Дата
+                    публикации
+                </div>
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.RSS_source.Name)
+                </td>
+
+                <td class="cell-400 text-center">
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td class="cell-600">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td class="text-center">
+                    @Html.ValueFor(modelItem => item.PubDate, "{0:dd-MM-yyyy}")
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+<br />
+
+<span>Страница</span> @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) <span>из</span> @Model.PageCount
+
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, src = ViewBag.CurrentSource, sortstyle = ViewBag.SortStyle }))

@@ -1,0 +1,61 @@
+﻿@model PagedList.IPagedList<RssNewsWebApp.News>
+@using PagedList.Mvc;
+
+<div id="rez">
+    <div class="container">
+        <table class="table-bordered table-hover">
+            <tr>
+                <th>
+                    <div class="text-center">
+                        Источник
+                    </div>
+                </th>
+                <th>
+                    <div class="text-center">
+                        Название
+                        новости
+                    </div>
+                </th>
+                <th>
+                    <div class="text-center">
+                        Описание
+                        новости
+                    </div>
+                </th>
+                <th>
+                    <div class="text-center">
+                        Дата
+                        публикации
+                    </div>
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="text-center">
+                        @Html.DisplayFor(modelItem => item.RSS_source.Name)
+                    </td>
+
+                    <td class="cell-400 text-center">
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td class="cell-600">
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td class="text-center">
+                        @Html.ValueFor(modelItem => item.PubDate, "{0:dd-MM-yyyy}")
+                    </td>
+                </tr>
+            }
+        </table>
+    </div><br />
+
+    @*<span>Страница</span> @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) <span>из</span> @Model.PageCount
+        @Html.PagedListPager(Model, p => Url.Action("AjaxView", new { p, src = ViewBag.CurSource, sortstyle = ViewBag.Sorting }))*@
+    @Html.PagedListPager(
+        Model,
+        p => Url.Action("AjaxView", new { p, src = ViewBag.CurSource, sortstyle = ViewBag.Sorting }),
+        PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "result" })
+    )
+
+</div>
